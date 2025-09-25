@@ -52,9 +52,10 @@
 
 ---
 
-## 📊 Competitive Programming
+## 🏆 Competitive Programming
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/yash27560?theme=dark&font=baloo&ext=contest)
+- 🔗 [LeetCode Profile](https://leetcode.com/u/yash27560)  
+- 🔗 [GeeksForGeeks Profile](https://www.geeksforgeeks.org/user/envyash/)  
 
 ---
 
