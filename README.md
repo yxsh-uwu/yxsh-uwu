@@ -14,7 +14,7 @@
 
 - **[🖥️ Local-AI-Agent](https://github.com/yxsh-uwu/Local-AI-Agent)**  
   Privacy-first, offline AI agent that runs locally using open-source LLMs — no cloud, no data leaks.  
-  **Tech Stack:** `Python` · `LangChain` · `Ollama` · `Streamlit`
+  **Tech Stack:** `Python` · `LangChain` · `Ollama` 
 
 - **[💬 InterviewPrep](https://github.com/yxsh-uwu/InterviewPrep)**  
   AI-powered mock interview platform to practice coding & behavioral interviews.  
