@@ -1,25 +1,68 @@
-# Hi There, I'm Yash 👋
+# 👋 Hi, I'm Yash  
 
-🎓 I'm a junior-year Software Engineering student passionate about building impactful tech solutions.  
+🎓 **Junior-year Software Engineering student** passionate about building impactful tech solutions.  
 💻 I primarily code in **Python** and **C++**, with additional experience in **JavaScript**, **TypeScript**, **Java**, and tools like **Postman**.  
 
+---
+
 ## 🚀 Current Work
-I'm currently working on a **Semantic Book Recommender** that leverages NLP to provide smarter, personalized book recommendations.
+🔍 **Semantic Book Recommender** – leveraging NLP to provide smarter, personalized book recommendations.
+
+---
 
 ## 🛠️ Notable Projects
 
-- **[InterviewPrep](https://github.com/yxsh-uwu/InterviewPrep)**  
-  An AI-powered mock interview platform that helps users practice real-world coding and behavioral interviews.
+- **[🖥️ Local-AI-Agent](https://github.com/yxsh-uwu/Local-AI-Agent)**  
+  Privacy-first, offline AI agent that runs locally using open-source LLMs — no cloud, no data leaks.  
+  **Tech Stack:** `Python` · `LangChain` · `Ollama` · `Streamlit`
+
+- **[💬 InterviewPrep](https://github.com/yxsh-uwu/InterviewPrep)**  
+  AI-powered mock interview platform to practice coding & behavioral interviews.  
+  **Tech Stack:** `Next.js` · `TypeScript` · `Firebase` · `Google Gemini` · `Vapi`
+
+- **[🍳 Palate Pioneers](https://github.com/yxsh-uwu/PalatePioneers)**  
+  ML-powered recipe recommendation system based on available kitchen ingredients.  
+  **Tech Stack:** `Python` · `Scikit-learn` · `Flask` · `Pandas`
+
+- **[🌍 Live Speech Translation](https://github.com/yxsh-uwu/SpeechTranslator)**  
+  Real-time speech translation tool for seamless multilingual communication.  
+  **Tech Stack:** `Python` · `gTTS` · `DeepTranslator`
+
+---
+
+## 💼 Work Experience
+
+**IT Intern – Orient Electric** *(Feb 2025 – Apr 2025)*  
+- Automated CI/CD pipeline scripts, improving deployment efficiency.  
+- Debugged and optimized backend processes (15% faster execution).  
+- Collaborated cross-functionally and gained hands-on SDLC experience.  
+
+**Data Science Intern – Codsoft** *(Sept 2024 – Oct 2024)*  
+- Built a credit card fraud detection model (95% accuracy) using Random Forest.  
+- Processed and analyzed large transaction datasets with Pandas & NumPy.  
+
+---
 
 ## 🧠 Skills & Tools
-- Languages: Python, C++, JavaScript, TypeScript, Java  
-- Tools & Platforms: Postman, Git, VSCode, Linux  
-- Areas of Interest: AI/ML, Full-stack Development, NLP
+
+**Languages:** `Python` · `C++` · `C` · `Java` · `JavaScript` · `TypeScript` · `SQL` · `HTML/CSS`  
+**Technologies:** `NLP` · `Deep Learning` · `LangChain` · `Computer Vision` · `Firebase` · `MongoDB`  
+**Tools:** `Git` · `GitHub` · `VSCode` · `Linux` · `Postman` · `Jupyter Notebooks`  
+**Soft Skills:** `Problem-Solving` · `Critical Thinking` · `Communication` · `Agile`  
+
+---
+
+## 📊 Competitive Programming
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/yash27560?theme=dark&font=baloo&ext=contest)
+
+---
 
 ## 📫 Connect with Me
-- 🌐 [LinkedIn](https://linkedin.com/in/yxsh-agarwal)  
-- 💻 [GitHub](https://github.com/yxsh-uwu)  
 
-Thanks for stopping by! Let's build something cool together 🚀
+🌐 [LinkedIn](https://linkedin.com/in/yxsh-agarwal)  
+💻 [GitHub](https://github.com/yxsh-uwu)  
 
-[![An image of @yxshuwu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yxshuwu)](https://holopin.io/@yxshuwu)
+---
+
+[![Holopin Badges](https://holopin.me/yxshuwu)](https://holopin.io/@yxshuwu)
