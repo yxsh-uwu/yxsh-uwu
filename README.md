@@ -16,7 +16,7 @@ I primarily code in **Python** and **C++**, with additional experience in **Java
   A semantic recommendation system that suggests books based on their contextual meaning rather than just keyword similarity. It leverages large language model embeddings to analyze book descriptions and recommend semantically relevant titles.
   
   **Tech Stack:** `Python` · `LangChain` · `ChromaDB` · `Ollama` · `Gradio` · `Pandas`
-- **[Better-Auth Practice Project](https://github.com/yxsh-uwu/BetterAuth-Practice)**  
+- **[Better-Auth Practice Project](https://github.com/yxsh-uwu/BetterAuthPractice)**  
   A practice project built to learn and implement secure authentication using Better-Auth. It showcases a modern authentication system built with Next.js 15, featuring a complete password reset flow and email verification. This project served as a hands-on exercise for implementing best practices in user authentication for modern web applications.
   
   **Tech Stack:** `Next.js` · `TypeScript` · `Better-Auth` · `PostgreSQL (with Prisma & Supabase)` · `Tailwind CSS` · `shadcn/ui` · `Resend` 
