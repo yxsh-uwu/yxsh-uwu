@@ -1,6 +1,6 @@
 # Hi, I'm Yash  
 
-**Final-year CS-AI student** passionate about building AI-driven and impactful tech solutions.  
+**Final-year CS-AI & DS student** passionate about building AI-driven and impactful tech solutions.  
 I primarily code in **Python** and **C++**, with additional experience in **JavaScript**, **TypeScript**, **Java**, and tools like **Postman**.  
 
 ---
@@ -12,6 +12,11 @@ I primarily code in **Python** and **C++**, with additional experience in **Java
 
 ## Notable Projects
 
+- **[InterviewPrep](https://github.com/yxsh-uwu/InterviewPrep)**  
+  An AI-powered mock interview platform that simulates real coding and behavioral interviews. Users can practice technical questions, receive real-time feedback, and track performance over time.
+    
+  **Tech Stack:** `Next.js` · `TypeScript` · `Firebase` · `Google Gemini` · `Vapi`
+  
 - **[Semantic Book Recommender](https://github.com/yxsh-uwu/SemanticBookRecommender)**  
   A semantic recommendation system that suggests books based on their contextual meaning rather than just keyword similarity. It leverages large language model embeddings to analyze book descriptions and recommend semantically relevant titles.
   
@@ -25,11 +30,6 @@ I primarily code in **Python** and **C++**, with additional experience in **Java
   A privacy-first, offline AI agent that runs locally on your device without relying on cloud APIs. It provides a secure and customizable way to interact with open-source LLMs.
   
   **Tech Stack:** `Python` · `LangChain` · `Ollama`  
-
-- **[InterviewPrep](https://github.com/yxsh-uwu/InterviewPrep)**  
-  An AI-powered mock interview platform that simulates real coding and behavioral interviews. Users can practice technical questions, receive real-time feedback, and track performance over time.
-    
-  **Tech Stack:** `Next.js` · `TypeScript` · `Firebase` · `Google Gemini` · `Vapi`  
 
 - **[Palate Pioneers](https://github.com/yxsh-uwu/PalatePioneers)**  
   A machine learning-powered recipe recommendation app that suggests dishes based on available ingredients in your kitchen.
