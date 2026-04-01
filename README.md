@@ -29,7 +29,7 @@ I primarily code in **Python** and **C++**, with additional experience in **Java
 - **[Local-AI-Agent](https://github.com/yxsh-uwu/Local-AI-Agent)**  
   A privacy-first, offline AI agent that runs locally on your device without relying on cloud APIs. It provides a secure and customizable way to interact with open-source LLMs.
   
-  **Tech Stack:** `Python` · `LangChain` · `Ollama`  
+  **Tech Stack:** `Python` · `LangChain` · `Ollama` · `LlamaIndex`  
 
 - **[Palate Pioneers](https://github.com/yxsh-uwu/PalatePioneers)**  
   A machine learning-powered recipe recommendation app that suggests dishes based on available ingredients in your kitchen.
@@ -44,6 +44,16 @@ I primarily code in **Python** and **C++**, with additional experience in **Java
 ---
 
 ## Work Experience
+
+**Associate Programmer(GenAI) – Orient Electric** *(Jan 2026 - Present)*  
+- Building systems that speed up claims processing and automate manual tasks for insurance companies, improving efficiency and customer satisfaction.
+- Working with LLamaIndex to build data pipelines and prioritize data privacy and local processing.
+- Working with LangChain to build Agentic Workflows and GenAI solutions
+
+**Software Development Engineer Intern – FlairX** *(Nov 2025 – Dec 2025)*  
+- Worked with TypeScript, React, and Node.js to develop AI-powered interview solutions that enhance the hiring process for companies.  
+- Contributed to building scalable frontend components and integrating backend services to improve user experience.
+- Collaborated with the Design team to build user-friendly UI.
 
 **IT Intern – Orient Electric** *(Feb 2025 – Apr 2025)*  
 - Contributed to the development of vendor and partner onboarding platforms.  
